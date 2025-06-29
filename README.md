@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BiofoamFirebreaks
 
 🚀 **Project Overview**
@@ -59,3 +60,6 @@ This project uses a **Hybrid Guardian License**:
 Tracked by the Symbiote Ledger under Symbiote #001. Project metadata, contributions, and lifeform impact are logged via IPFS and optional chain notarization.
 
 ---
+=======
+# BiofoamFirebreaks
+>>>>>>> db75c35157ca0d95c325d9e1f038fd54148e02d9
